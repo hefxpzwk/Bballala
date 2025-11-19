@@ -1,0 +1,6 @@
+openai
+pynput
+pyautogui
+selenium
+playwright
+python-dotenv
